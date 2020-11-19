@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace aspnet_get_started
+namespace aspnet production_get_started
 {
     public class BundleConfig
     {
